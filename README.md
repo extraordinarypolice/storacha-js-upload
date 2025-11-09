@@ -1,7 +1,6 @@
 🌐 Storacha JS Client Integration Demo
 
-**Author:** ExtraordinaryPolice  
-**Role:** Storacha Ambassador  
+ 
 **Technology:** Node.js + Storacha JavaScript SDK  
 
 ---
@@ -35,7 +34,7 @@ This script is a practical example for developers who want to:
 🪐 Creating a new space...
 📦 Uploading directory...
 ✅ Upload complete!
-CID: bafybeiee5bzi52q5prngigvqb6dhklv36sdk2axl5hnwd4rbjn3ftshnwu
+CID: bafybeiee5bzi52q5prngigvrghtfytrrcgggh
 Gateway URL: https://bafybeiee5bzi52q5prngigvqb6dhklv36sdk2axl5hnwd4rbjn3ftshnwu.ipfs.storacha.link
 
  Installation & Usage
